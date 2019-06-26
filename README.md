@@ -1,4 +1,4 @@
-# AElf - A Decentralized Cloud Computing Blockchain Network 
+# AElf - A Decentralized Cloud Computing Blockchain Network [DEMO]
 
 [![Build Status](https://travis-ci.org/AElfProject/AElf.svg?branch=dev)](https://travis-ci.org/AElfProject/AElf)
 [![Build status](https://ci.appveyor.com/api/projects/status/wnehtmk2up4l5w5j/branch/dev?svg=true)](https://ci.appveyor.com/project/AElfProject/aelf/branch/dev)
